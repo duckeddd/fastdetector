@@ -1,0 +1,7 @@
+os 
+sys
+ctypes
+psutil
+subprocess
+platform
+pyfiglet
